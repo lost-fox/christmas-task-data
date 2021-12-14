@@ -1,0 +1,83 @@
+[
+   {
+      "background": "#227c66",
+      "border": "#1f7a64",
+      "hover-background": "#73bba8",
+      "html-background": "#365e53",
+      "color-text": "#ffffff",
+      "hover-border": "#000000"
+   },
+   {
+      "background": "#7e8558",
+      "border": "#b7cc95",
+      "hover-background": "#7cce63",
+      "html-background": "#586e33",
+      "color-text": "#ffffff",
+      "hover-border": "#b9b6b6"
+   },
+   {
+      "background": "#165d79",
+      "border": "#221c5c",
+      "hover-background": "#0bb985",
+      "html-background": "#243d55",
+      "color-text": "#ffffff",
+      "hover-border": "#0a0641"
+   },
+   {
+      "background": "#285832",
+      "border": "#0b6425",
+      "hover-background": "#916513",
+      "html-background": "#acddb8",
+      "color-text": "#000000",
+      "hover-border": "#0a0641"
+   },
+   {
+      "background": "#31a789",
+      "border": "#06362a",
+      "hover-background": "#73bba8",
+      "html-background": "#0a362b",
+      "color-text": "#ffffff",
+      "hover-border": "#000000"
+   },
+   {
+      "background": "#a75c31",
+      "border": "#361006",
+      "hover-background": "#bb8a73",
+      "html-background": "#36130a",
+      "color-text": "#ffffff",
+      "hover-border": "#000000"
+   },
+   {
+      "background": "#319fa7",
+      "border": "#063436",
+      "hover-background": "#73aabb",
+      "html-background": "#0a2f36",
+      "color-text": "#000000",
+      "hover-border": "#bbf1ef"
+   },
+   {
+      "background": "#a79b31",
+      "border": "#333606",
+      "hover-background": "#bbba73",
+      "html-background": "#32360a",
+      "color-text": "#ffffff",
+      "hover-border": "#000000"
+   },
+   {
+      "background": "#3931a7",
+      "border": "#240636",
+      "hover-background": "#7473bb",
+      "html-background": "#0b0a36",
+      "color-text": "#ffffff",
+      "hover-border": "#000000"
+   },
+   {
+      "background": "#31a79d",
+      "border": "#06363",
+      "hover-background": "#73b3bb",
+      "html-background": "#0a3634",
+      "color-text": "#ffffff",
+      "hover-border":"#000000"
+   }
+
+]
